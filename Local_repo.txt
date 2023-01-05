@@ -8,3 +8,4 @@ def sum(a, b):
     first = a
     second = b
     result = first + second
+    return result
