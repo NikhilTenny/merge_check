@@ -6,5 +6,5 @@ To dev from local
 
 def sum(a, b):
     first = a
-    Second = b
-    result = first + Second
+    second = b
+    result = first + second
