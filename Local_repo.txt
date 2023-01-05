@@ -5,3 +5,5 @@ To dev from local
 
 
 def sum(a, b):
+    x = a
+    y = b
